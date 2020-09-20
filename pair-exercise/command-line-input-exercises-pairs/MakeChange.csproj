@@ -6,4 +6,8 @@
     <RootNamespace>command_line_input_exercises_pairs</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MartianWeight\MartianWeight.csproj" />
+  </ItemGroup>
+
 </Project>
